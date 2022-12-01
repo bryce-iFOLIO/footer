@@ -1,2 +1,2 @@
-# footer
+# Footer
 Creating an iFOLIO footer
